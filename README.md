@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ijas0805
+- 👀 I’m interested in developing python applications
+- 🌱 I’m currently learning flask
+- 📫 Reach me: iahammedap@gmail.com
